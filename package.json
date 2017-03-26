@@ -1,0 +1,28 @@
+{
+  "name": "placid",
+  "version": "0.1.0",
+  "description": "RESTful API documentation and test tool, written in Node JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkov/placid.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "test",
+    "documentation",
+    "rest",
+    "api",
+    "tool"
+  ],
+  "author": "Daniel Kovacs <kovacsemod@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielkov/placid/issues"
+  },
+  "homepage": "https://github.com/danielkov/placid#readme"
+}
